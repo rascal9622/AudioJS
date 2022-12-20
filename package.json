@@ -16,7 +16,7 @@
     "sails-hook-sockets": "^2.0.0",
     "sails-mariadb": "^1.2.3",
     "sails-mongo": "^1.1.0",
-    "sails-mysql": "^1.0.1",
+    "sails-mysql": "^3.0.0",
     "store": "^2.0.12"
   },
   "devDependencies": {
